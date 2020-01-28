@@ -10,6 +10,7 @@ function addTask(){
 
         var listItem = document.createTextNode(task);
 
+
         
         if(task == ''){
             alert("please enter a task");
