@@ -18,7 +18,6 @@ function addTask(){
         else{
             li.appendChild(listItem)
             doList.appendChild(li);
-
         }
         
         document.getElementById('task').value = '';
@@ -53,3 +52,5 @@ function addTask(){
 }
 
 addTask()
+
+//adding stuff for git
